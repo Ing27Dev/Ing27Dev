@@ -67,7 +67,7 @@ Actualmente me enfoco en el desarrollo web (especialmente frontend), combinando 
 ### 💼 Experiencia
 
 #### 💻 **Desarrollo web freelance** (2025)
-- Diseño y desarrollo de una página web para **clínica dental** (proyecto real).
+- Diseño y desarrollo de una página web para **clínica dental**(en desarrollo).
 - Página en desarrollo para **peluquería**.
 
 #### 🏢 **Prácticas formativas – Casa Vigars S.L.** (2024)
