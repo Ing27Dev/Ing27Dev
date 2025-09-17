@@ -1,6 +1,6 @@
 <h1 align="center">👋 ¡Hola! Soy Ignacio Navarro García-Arévalo</h1>
 
-<h3 align="center">Desarrollador Fullstack Jr. | Titulado en DAM | Máster Fullstack en curso | En transición desde la hostelería</h3>
+<h3 align="center">Desarrollador Fullstack Jr. | Titulado en DAM | Máster Fullstack en curso</h3>
 
 ---
 
