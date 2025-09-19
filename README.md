@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy Ignacio Navarro García-Arévalo</h1>
+<h1 align="center">Ignacio Navarro García-Arévalo</h1>
 
 <h3 align="center">Desarrollador Fullstack Jr. | Titulado en DAM | Máster Fullstack en curso</h3>
 
